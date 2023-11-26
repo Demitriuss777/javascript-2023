@@ -1,17 +1,3 @@
-/*
-* - Створити змінні. Присвоїти кожному з них значення: 'hello','owu','com', 'ua', 1, 10, -999, 123, 3.14, 2.7, 16, true, false.
-Вивести кожну змінну за допомогою: console.log
-
-- Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ. З'єднати їх в одну змінну person (Не об'єкт, просто за допомоги конкатенації)
-
-- За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
-  let a = 100; let b = '100'; let c = true;
-
-Додаткове для тих хто цікавився prompt`oм
-- За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
-
-* */
-
 // 1 Створити змінні. Присвоїти кожному з них значення: 'hello','owu','com',
 // 'ua', 1, 10, -999, 123, 3.14, 2.7, 16, true, false.
 // Вивести кожну змінну за допомогою: console.log
@@ -40,11 +26,11 @@ console.log(n7);
 console.log(tr);
 console.log(fl);
 console.log('--------------------------------------------')
- //2 Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ.
+//2 Створити 3 змінних firstName, middleName, lastName, наповнити їх своїм ПІБ.
 // З'єднати їх в одну змінну person (Не об'єкт, просто за допомоги конкатенації)
 let firstName = 'Дмитро';
 let middLeName = 'Петрович';
-let lastName ='Приходько'
+let lastName = 'Приходько'
 let person = (`${firstName} ${middLeName} ${lastName}`)
 console.log(person)
 let personone = firstName + ' ' + middLeName + ' ' + lastName;
@@ -60,3 +46,11 @@ console.log(typeof a);
 console.log(typeof b);
 console.log(typeof c);
 console.log('----------------------------------------------');
+// 4
+//Додаткове для тих хто цікавився prompt`oм
+// - За допомогою 3х різних prompt() отримати 3 слова
+// які являються вашими Імям, По-Батькові та роками. та вивести в консоль
+let name = prompt("Введіть ім'я", "Andre");
+let lastname1 = prompt('Введіть призвіще', 'Clinton');
+let age = +prompt('Введіть вік', '30');
+console.log(name, lastname1, age);

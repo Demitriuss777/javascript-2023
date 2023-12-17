@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e9872f0-9ffd-40bf-a02c-1a35076294cb" name="Changes" comment="lesson 4 function">
-      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork4Function/4function.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork4Function/main4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork5Function/home5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork5Function/main5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork6all/home6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork6all/main6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +60,7 @@
       <workItem from="1701032102303" duration="852000" />
       <workItem from="1701033632201" duration="354000" />
       <workItem from="1701034612461" duration="26862000" />
-      <workItem from="1701797819809" duration="11498000" />
+      <workItem from="1701797819809" duration="26891000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1">
       <created>1700594936859</created>
@@ -107,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701634044931</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson 4 function">
+      <created>1702315070802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702315070802</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

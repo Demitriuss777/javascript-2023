@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e9872f0-9ffd-40bf-a02c-1a35076294cb" name="Changes" comment="lesson 4 function">
-      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork6all/home6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homeworks/HomeWork6all/main6.js" afterDir="false" />
+    <list default="true" id="6e9872f0-9ffd-40bf-a02c-1a35076294cb" name="Changes" comment="homework6">
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework8/Home8Constructor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Homework8/main8.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +61,8 @@
       <workItem from="1701032102303" duration="852000" />
       <workItem from="1701033632201" duration="354000" />
       <workItem from="1701034612461" duration="26862000" />
-      <workItem from="1701797819809" duration="26891000" />
+      <workItem from="1701797819809" duration="27575000" />
+      <workItem from="1702916107793" duration="13404000" />
     </task>
     <task id="LOCAL-00001" summary="lesson1">
       <created>1700594936859</created>
@@ -111,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702315070802</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="homework6">
+      <created>1702850962307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702850962307</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +143,7 @@
     <MESSAGE value="home1 all" />
     <MESSAGE value="home2" />
     <MESSAGE value="lesson 4 function" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 function" />
+    <MESSAGE value="homework6" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework6" />
   </component>
 </project>
